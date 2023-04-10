@@ -6,7 +6,7 @@
 ***
 
 
-projeye buradan bakabilirsiniz => <a href="https://hamits.github.io/quiz-competition"> **Music Player**   
+projeye buradan bakabilirsiniz => <a href="https://hamits.github.io/quiz-competition"> **Bilgi Yarışması**   
 
 
 ***
